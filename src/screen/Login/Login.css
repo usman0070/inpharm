@@ -1,0 +1,72 @@
+.bbg{
+    background-image:url("../../assets/images/loginBg.png");
+/* background-repeat: no-repeat;
+  height: 99vh; */
+  background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+  
+}
+
+.logo33>img{
+    width: 450px;
+    margin-left: 200px;
+
+margin-top: 30px;
+}
+.logo22>img{
+
+    width: 450px;
+    margin-left: 200px;
+    margin-top: 70px;
+
+  
+}
+
+.form12{
+  display: flex;
+  flex-direction: column;
+  margin-top: 90px;
+margin:80px;
+padding-top: 10px;
+align-items: end;
+margin-left: 100px;
+margin-left: 50px;
+}
+
+.btn12>button{
+border: none;
+background-color: #3671dd;
+color: white;
+margin: 5px;
+height: 50px;
+border-radius: 10px;
+width: 164px;
+margin-top:60px;
+flex-wrap: wrap;
+}
+
+.input12>input{
+    width:100%;
+height: 60px;
+border-radius: 10px;
+border: none;
+margin-top: 5px;
+text-decoration: none;
+}
+
+.forgot12{
+    display: flex;
+    margin-top: 5px;
+}
+
+.login12>button{
+    width:100%;
+    border: none;
+background-color: #3671dd;
+color: white;
+margin: 5px;
+height: 50px;
+border-radius: 10px;
+margin-top: 5px;
+}

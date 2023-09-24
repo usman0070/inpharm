@@ -1,0 +1,11 @@
+.blue>button {
+    background-color: blue;
+}
+
+.red>button {
+    background-color: red;
+}
+
+button:disabled {
+    background-color: rgb(243, 235, 235);
+}
